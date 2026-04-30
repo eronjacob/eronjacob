@@ -74,7 +74,7 @@
 <h2 align="center">🛠️ Tech Stack & Tools</h2>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,c,cpp,cs,java,js,matlab,bash,react,nodejs,opencv,aws,firebase,figma,git,docker,tensorflow,pytorch,kubernetes,linux&perline=10" />
+    <img src="https://skillicons.dev/icons?i=py,c,cpp,js,matlab,bash,react,nodejs,opencv,firebase, git,tensorflow,pytorch&perline=10" />
   </a>
 </div>
 
