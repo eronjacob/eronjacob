@@ -1,7 +1,7 @@
 <!-- ANIMATED TYPING HEADER -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3500&pause=500&color=00B4D8&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Eron+Jacob;Electronic+%26+Computer+Engineer;AI+%26+Machine+Learning+Specialist;Open+Source+Contributor;Always+Learning+New+Tech;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3500&pause=500&color=00B4D8&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Eron+Jacob;Welcome+to+my+GitHub+Profile;Let's+build+something+amazing!" alt="Typing SVG" />
   </a>
 </div>
 
@@ -9,7 +9,7 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="banner" />
   <br/>
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3U3NXk0cDF3eTR1cWY2cTZndWU3bXN4MXM0MnBoYXhoazEyamU5MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NKEt9elQ5cR68/giphy.gif" width="600" alt="AI Tech Animation" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3U3NXk0cDF3eTR1cWY2cTZndWU3bXN4MXM0MnBoYXhoazEyamU5MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NKEt9elQ5cR68/giphy.gif" width="600" alt="Coding animation" />
 </div>
 
 <!-- SOCIAL BADGES (with your correct links) -->
@@ -23,7 +23,7 @@
   <a href="https://instagram.com/eron_buenaflor" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://github.com/eb546" target="_blank">
+  <a href="https://github.com/eronjacob" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </div>
@@ -34,12 +34,12 @@
 <!-- ABOUT ME SECTION WITH ANIMATED GIF -->
 <h2 align="center">🚀 About Me</h2>
 <div align="center">
-  <img align="right" alt="Coding" width="350" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzhtYzQ3ZG5kMTlxcG42dHhra2N4d2Q4YjVtYzh5emYzb3c4djhpNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
+  <img align="right" alt="Coding" width="350" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzhtYzQ3ZG5kMTlxcG42dHhra2N4d2Q4YjVtYzh5emYzb3c4djhpNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer coding" />
   
-  - 🔭 I’m currently working on **an Open Source AI Project**
-  - 🌱 I’m currently learning **Advanced LLMs, MLOps, and Cloud Engineering**
-  - 👯 I’m looking to collaborate on **a potential Money-Making AI Platform**
-  - 🤝 I’m looking for help with **developing a Machine Learning Project**
+  - 🔭 I'm currently working on **an Open Source AI Project**
+  - 🌱 I'm currently learning **Advanced LLMs, MLOps, and Cloud Engineering**
+  - 👯 I'm looking to collaborate on **a potential Money-Making AI Platform**
+  - 🤝 I'm looking for help with **developing a Machine Learning Project**
   - 💬 Ask me about **Embedded Systems, AI, and Electronics**
   - 📫 How to reach me: **eronjacobbuenaflor@gmail.com**
   - ⚡ Fun fact: **I am very locked in with work 💻**
@@ -53,17 +53,17 @@
 <!-- GITHUB STATS DASHBOARD -->
 <h2 align="center">📊 GitHub Analytics</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eb546&show_icons=true&theme=tokyonight&hide_border=true&title_color=00b4d8&icon_color=00b4d8&bg_color=0d1117" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eb546&theme=tokyonight&hide_border=true&stroke=00b4d8&ring=00b4d8&fire=00b4d8&background=0d1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=eronjacob&show_icons=true&theme=tokyonight&hide_border=true&title_color=00b4d8&icon_color=00b4d8&bg_color=0d1117" width="48%" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eronjacob&theme=tokyonight&hide_border=true&stroke=00b4d8&ring=00b4d8&fire=00b4d8&background=0d1117" width="48%" alt="Streak Stats"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eb546&layout=compact&theme=tokyonight&hide_border=true&title_color=00b4d8&bg_color=0d1117" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eronjacob&layout=compact&theme=tokyonight&hide_border=true&title_color=00b4d8&bg_color=0d1117" width="40%" alt="Top Languages"/>
 </div>
 
 <!-- GITHUB TROPHIES (adds gamification) -->
 <div align="center">
   <h3>🏆 GitHub Trophies</h3>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=eb546&theme=onedark&no-frame=true&no-bg=true&margin-w=4&row=2&column=4&title_color=00b4d8" width="100%" alt="trophy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=eronjacob&theme=onedark&no-frame=true&no-bg=true&margin-w=4&row=2&column=4&title_color=00b4d8" width="100%" alt="trophy" />
   </a>
 </div>
 
@@ -74,7 +74,7 @@
 <h2 align="center">🛠️ Tech Stack & Tools</h2>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,c,cpp,js,matlab,bash,react,nodejs,opencv,firebase, git,tensorflow,pytorch&perline=10" />
+    <img src="https://skillicons.dev/icons?i=py,c,cpp,js,matlab,bash,react,nodejs,opencv,firebase,git,tensorflow,pytorch&perline=10" alt="Tech Stack Icons" />
   </a>
 </div>
 
@@ -85,9 +85,9 @@
 <h2 align="center">🐍 My Contributions</h2>
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eb546/eb546/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eb546/eb546/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/eb546/eb546/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eronjacob/eronjacob/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eronjacob/eronjacob/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/eronjacob/eronjacob/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
@@ -98,7 +98,7 @@
 <h2 align="center">📈 Activity Graph</h2>
 <div align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=eb546&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&color=00b4d8&line=00b4d8&point=FFFFFF&custom_title=My%20Contribution%20Graph" width="95%">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=eronjacob&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&color=00b4d8&line=00b4d8&point=FFFFFF&custom_title=My%20GitHub%20Activity" alt="Activity Graph" />
   </a>
 </div>
 
@@ -108,18 +108,18 @@
 <!-- LATEST PROJECTS (Dynamic cards from pinned repos) -->
 <h2 align="center">📌 Pinned Projects</h2>
 <div align="center">
-  <a href="https://github.com/eb546/your-project-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eb546&repo=your-project-1&theme=tokyonight&hide_border=true&title_color=00b4d8&icon_color=00b4d8&bg_color=0d1117" width="45%" />
+  <a href="https://github.com/eronjacob">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eronjacob&repo=eronjacob&theme=tokyonight&hide_border=true&title_color=00b4d8&icon_color=00b4d8&bg_color=0d1117" width="45%" alt="Pinned Project 1"/>
   </a>
-  <a href="https://github.com/eb546/your-project-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eb546&repo=your-project-2&theme=tokyonight&hide_border=true&title_color=00b4d8&icon_color=00b4d8&bg_color=0d1117" width="45%" />
+  <a href="https://github.com/eronjacob">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eronjacob&repo=eronjacob&theme=tokyonight&hide_border=true&title_color=00b4d8&icon_color=00b4d8&bg_color=0d1117" width="45%" alt="Pinned Project 2"/>
   </a>
   <br/>
-  <a href="https://github.com/eb546/your-project-3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eb546&repo=your-project-3&theme=tokyonight&hide_border=true&title_color=00b4d8&icon_color=00b4d8&bg_color=0d1117" width="45%" />
+  <a href="https://github.com/eronjacob">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eronjacob&repo=eronjacob&theme=tokyonight&hide_border=true&title_color=00b4d8&icon_color=00b4d8&bg_color=0d1117" width="45%" alt="Pinned Project 3"/>
   </a>
-  <a href="https://github.com/eb546/your-project-4">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eb546&repo=your-project-4&theme=tokyonight&hide_border=true&title_color=00b4d8&icon_color=00b4d8&bg_color=0d1117" width="45%" />
+  <a href="https://github.com/eronjacob">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eronjacob&repo=eronjacob&theme=tokyonight&hide_border=true&title_color=00b4d8&icon_color=00b4d8&bg_color=0d1117" width="45%" alt="Pinned Project 4"/>
   </a>
 </div>
 
@@ -128,10 +128,10 @@
 
 <!-- ANIMATED FOOTER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=150&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=30&fontAlignY=70&animation=twinkling&desc=Let's%20connect%20and%20build%20something%20awesome&descAlignY=85&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=150&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=30&fontAlignY=70&animation=twinkling&desc=Let's%20collaborate%20on%20amazing%20projects!" alt="Footer" />
 </div>
 
 <!-- VISITOR COUNTER (optional) -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=eb546&style=for-the-badge&color=00b4d8" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=eronjacob&style=for-the-badge&color=00b4d8" alt="Profile Views"/>
 </div>
