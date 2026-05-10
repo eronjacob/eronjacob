@@ -9,7 +9,7 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="banner" />
   <br/>
-  <img src="https://media0.giphy.com/media/Dh5q0sShxgp13DwrvVN/giphy.gif" width="600" alt="pixel animation" />
+  <img src="https://github.com/user-attachments/assets/f9ee9640-2428-4a16-bea3-320018b8ee93" width="600" alt="pixel animation" />
 </div>
 
 <!-- SOCIAL BADGES (with your correct links) -->
