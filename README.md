@@ -63,6 +63,7 @@
 <br/>
 
 <div align="center">
+  
   <!-- Donut-vertical is more visual than the default compact bar layout -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eronjacob&layout=donut-vertical&theme=tokyonight&hide_border=true&title_color=00b4d8&bg_color=0d1117" width="34%" alt="Top Languages" />
 
