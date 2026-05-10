@@ -1,7 +1,7 @@
 <!-- ANIMATED TYPING HEADER -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3500&pause=500&color=00B4D8&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Eron+Jacob;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3500&pause=500&color=00B4D8&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Eron+Jacob[...]
    </a>
 </div>
 
@@ -9,7 +9,7 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="banner" />
   <br/>
-  <img src="[https://media0.giphy.com/media/Dh5q0sShxgp13DwrvVN/giphy.gif](https://github.com/user-attachments/assets/29d95133-e595-483e-b354-4eca0332f27a)" width="600" alt="pixel animation" />
+  <img src="https://media0.giphy.com/media/Dh5q0sShxgp13DwrvVN/giphy.gif" width="600" alt="pixel animation" />
 </div>
 
 <!-- SOCIAL BADGES (with your correct links) -->
@@ -53,10 +53,10 @@
 <!-- GITHUB STATS DASHBOARD -->
 <h2 align="center">📊 GitHub Analytics</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eronjacob&show_icons=true&theme=tokyonight&hide_border=true&title_color=00b4d8&icon_color=00b4d8&bg_color=0d1117" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eronjacob&theme=tokyonight&hide_border=true&stroke=00b4d8&ring=00b4d8&fire=00b4d8&background=0d1117" width="48%" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=eronjacob&show_icons=true&theme=tokyonight&hide_border=true&title_color=00b4d8&icon_color=00b4d8&bg_color=0d1117" width="48%" alt="G[...]
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eronjacob&theme=tokyonight&hide_border=true&stroke=00b4d8&ring=00b4d8&fire=00b4d8&background=0d1117" width="48%" alt="Streak Stat[...]
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eronjacob&layout=compact&theme=tokyonight&hide_border=true&title_color=00b4d8&bg_color=0d1117" width="40%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eronjacob&layout=compact&theme=tokyonight&hide_border=true&title_color=00b4d8&bg_color=0d1117" width="40%" alt="Top Langu[...]
 </div>
 
 <!-- GITHUB TROPHIES (adds gamification) -->
@@ -98,7 +98,7 @@
 <h2 align="center">📈 Activity Graph</h2>
 <div align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=eronjacob&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&color=00b4d8&line=00b4d8&point=FFFFFF&custom_title=GitHub%20Activity%20Graph" alt="Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=eronjacob&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&color=00b4d8&line=00b4d8&point=FFFFFF&custom_tit[...]
   </a>
 </div>
 
@@ -109,17 +109,17 @@
 <h2 align="center">📌 Pinned Projects</h2>
 <div align="center">
   <a href="https://github.com/eronjacob">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eronjacob&repo=eronjacob&theme=tokyonight&hide_border=true&title_color=00b4d8&icon_color=00b4d8&bg_color=0d1117" width="45%" alt="Project 1" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eronjacob&repo=eronjacob&theme=tokyonight&hide_border=true&title_color=00b4d8&icon_color=00b4d8&bg_color=0d1117" width="45%"[...]
   </a>
   <a href="https://github.com/eronjacob">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eronjacob&repo=eronjacob&theme=tokyonight&hide_border=true&title_color=00b4d8&icon_color=00b4d8&bg_color=0d1117" width="45%" alt="Project 2" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eronjacob&repo=eronjacob&theme=tokyonight&hide_border=true&title_color=00b4d8&icon_color=00b4d8&bg_color=0d1117" width="45%"[...]
   </a>
   <br/>
   <a href="https://github.com/eronjacob">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eronjacob&repo=eronjacob&theme=tokyonight&hide_border=true&title_color=00b4d8&icon_color=00b4d8&bg_color=0d1117" width="45%" alt="Project 3" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eronjacob&repo=eronjacob&theme=tokyonight&hide_border=true&title_color=00b4d8&icon_color=00b4d8&bg_color=0d1117" width="45%"[...]
   </a>
   <a href="https://github.com/eronjacob">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eronjacob&repo=eronjacob&theme=tokyonight&hide_border=true&title_color=00b4d8&icon_color=00b4d8&bg_color=0d1117" width="45%" alt="Project 4" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eronjacob&repo=eronjacob&theme=tokyonight&hide_border=true&title_color=00b4d8&icon_color=00b4d8&bg_color=0d1117" width="45%"[...]
   </a>
 </div>
 
@@ -128,7 +128,7 @@
 
 <!-- ANIMATED FOOTER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=150&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=30&fontAlignY=70&animation=twinkling&desc=Let's%20Connect%20%26%20Build%20Something%20Awesome!" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=150&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=30&fontAlignY=70&animation=twinkling&desc=Let's%20[...]
 </div>
 
 <!-- VISITOR COUNTER (optional) -->
