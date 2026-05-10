@@ -54,12 +54,21 @@
 
 <!-- GITHUB STATS DASHBOARD -->
 <h2 align="center">📊 GitHub Analytics</h2>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=eronjacob&show_icons=true&theme=tokyonight&hide_border=true&title_color=00b4d8&icon_color=00b4d8&bg_color=0d1117" width="48%" alt="GitHub Stats" />
-  <!-- FIX: herokuapp is deprecated — now using streak-stats.demolab.com -->
   <img src="https://streak-stats.demolab.com/?user=eronjacob&theme=tokyonight&hide_border=true&stroke=00b4d8&ring=00b4d8&fire=00b4d8&background=0d1117" width="48%" alt="Streak Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eronjacob&layout=compact&theme=tokyonight&hide_border=true&title_color=00b4d8&bg_color=0d1117" width="40%" alt="Top Languages" />
+</div>
+
+<br/>
+
+<div align="center">
+  <!-- Donut-vertical is more visual than the default compact bar layout -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eronjacob&layout=donut-vertical&theme=tokyonight&hide_border=true&title_color=00b4d8&bg_color=0d1117" width="34%" alt="Top Languages" />
+
+  <!-- ⚠️ Replace YOUR-WAKATIME-USERNAME with your actual WakaTime username -->
+  <!-- Sign up free at https://wakatime.com and install the IDE plugin -->
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR-WAKATIME-USERNAME&theme=tokyonight&hide_border=true&title_color=00b4d8&icon_color=00b4d8&bg_color=0d1117&layout=compact" width="60%" alt="WakaTime Stats" />
 </div>
 
 <!-- GITHUB TROPHIES -->
@@ -85,13 +94,23 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
 <!-- SNAKE CONTRIBUTION ANIMATION -->
+<!-- ⚠️ Requires GitHub Action — add the workflow below if not done yet -->
 <h2 align="center">🐍 My Contributions</h2>
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eronjacob/eronjacob/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eronjacob/eronjacob/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/eronjacob/eronjacob/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/eronjacob/eronjacob/output/github-contribution-grid-snake-dark.svg">
   </picture>
+</div>
+
+<br/>
+
+<!-- 3D CONTRIBUTION CALENDAR -->
+<!-- ⚠️ Requires GitHub Action — add the workflow below if not done yet -->
+<h3 align="center">🌐 3D Contribution Calendar</h3>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/eronjacob/eronjacob/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Calendar" />
 </div>
 
 <!-- WAVE DIVIDER -->
