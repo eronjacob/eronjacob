@@ -9,7 +9,7 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="banner" />
   <br/>
-  <img src="https://github.com/user-attachments/assets/f9ee9640-2428-4a16-bea3-320018b8ee93" width="750" alt="pixel animation" />
+  <img src="https://github.com/user-attachments/assets/f9ee9640-2428-4a16-bea3-320018b8ee93" width="800" alt="pixel animation" />
   <br/>
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="banner" />
 </div>
@@ -39,9 +39,9 @@
   <img align="right" alt="Coding" width="350" src="https://media.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif" />
 
   - 🔭 I'm currently working on **an Open Source AI Project**
-  - 🌱 I'm currently learning **Advanced LLMs, MLOps, and Cloud Engineering**
+  - 🌱 I'm currently learning **fundamental LLMs, ML, and Computer Vision Concepts**
   - 👯 I'm looking to collaborate on **a potential Money-Making AI Platform**
-  - 🤝 I'm looking for help with **developing a Machine Learning Project**
+  - 🤝 I'm looking for help with **developing AI Agent Projects**
   - 💬 Ask me about **Embedded Systems, AI, and Electronics**
   - 📫 How to reach me: **eronjacobbuenaflor@gmail.com**
   - ⚡ Fun fact: **I am very locked in with work 💻**
