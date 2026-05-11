@@ -1,7 +1,7 @@
 # <!-- ANIMATED TYPING HEADER -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3500&pause=500&color=00B4D8&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Eron+Jacob;AI+%26+Embedded+Systems+Engineer;Open+Source+Contributor;Always+locked+in+%F0%9F%92%BB" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3500&pause=500&color=00B4D8&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Eron+Jacob;AI+%26+Embedded+Systems+Engineer;Open+Source+Contributor;Always+locked+in+%F0%9F%92%BB" alt="Typing SVG" />
   </a>
 </div>
 
@@ -9,7 +9,7 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="banner" />
   <br/>
-  <img src="https://github.com/user-attachments/assets/f9ee9640-2428-4a16-bea3-320018b8ee93" width="600" alt="pixel animation" />
+  <img src="https://github.com/user-attachments/assets/f9ee9640-2428-4a16-bea3-320018b8ee93" width="750" alt="pixel animation" />
   <br/>
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="banner" />
 </div>
