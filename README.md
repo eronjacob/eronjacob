@@ -69,7 +69,7 @@
 
   <!-- ⚠️ Replace YOUR-WAKATIME-USERNAME with your actual WakaTime username -->
   <!-- Sign up free at https://wakatime.com and install the IDE plugin -->
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR-WAKATIME-USERNAME&theme=tokyonight&hide_border=true&title_color=00b4d8&icon_color=00b4d8&bg_color=0d1117&layout=compact" width="60%" alt="WakaTime Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=eronjacob&theme=tokyonight&hide_border=true&title_color=00b4d8&icon_color=00b4d8&bg_color=0d1117&layout=compact" width="60%" alt="WakaTime Stats" />
 </div>
 
 <!-- GITHUB TROPHIES -->
