@@ -135,17 +135,17 @@
 <h2 align="center">📌 Pinned Projects</h2>
 <div align="center">
   <a href="https://github.com/eronjacob/MotorMind">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eronjacob&repo=MotorMind&theme=tokyonight&hide_border=true&title_color=00b4d8&icon_color=00b4d8&bg_color=0d1117" width="45%" alt="Pinned Repo 1" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eronjacob&repo=MotorMind&theme=tokyonight&hide_border=true&title_color=00b4d8&icon_color=00b4d8&bg_color=0d1117" width="45%" alt="MotorMind" />
   </a>
   <a href="https://github.com/eronjacob/Dual_Robotic_Real-Time_Operation_Dashboard_Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eronjacob&repo=Dual_Robotic_Real-Time_Operation_Dashboard_Project&theme=tokyonight&hide_border=true&title_color=00b4d8&icon_color=00b4d8&bg_color=0d1117" width="45%" alt="Pinned Repo 2" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eronjacob&repo=Dual_Robotic_Real-Time_Operation_Dashboard_Project&theme=tokyonight&hide_border=true&title_color=00b4d8&icon_color=00b4d8&bg_color=0d1117" width="45%" alt="Dual_Robotic_Real-Time_Operation_Dashboard_Project" />
   </a>
   <br/>
   <a href="https://github.com/eronjacob/Makati_Garage_Website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eronjacob&repo=Makati_Garage_Website&theme=tokyonight&hide_border=true&title_color=00b4d8&icon_color=00b4d8&bg_color=0d1117" width="45%" alt="Pinned Repo 3" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eronjacob&repo=Makati_Garage_Website&theme=tokyonight&hide_border=true&title_color=00b4d8&icon_color=00b4d8&bg_color=0d1117" width="45%" alt="Makati_Garage_Website" />
   </a>
-  <a href="https://github.com/eronjacob/YOUR-REPO-NAME-4">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eronjacob&repo=YOUR-REPO-NAME-4&theme=tokyonight&hide_border=true&title_color=00b4d8&icon_color=00b4d8&bg_color=0d1117" width="45%" alt="Pinned Repo 4" />
+  <a href="https://github.com/eronjacob/Dual_Robotic_Arm_HCI_Software">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eronjacob&repo=Dual_Robotic_Arm_HCI_Software&theme=tokyonight&hide_border=true&title_color=00b4d8&icon_color=00b4d8&bg_color=0d1117" width="45%" alt="Dual_Robotic_Arm_HCI_Software" />
   </a>
 </div>
 
