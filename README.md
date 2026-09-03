@@ -38,9 +38,7 @@
 <div align="center">
   <img align="right" alt="Coding" width="350" src="https://media.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif" />
 
-  - 🔭 I'm currently working on **an Open Source AI Project**
-  - 🌱 I'm currently learning **fundamental LLMs, ML, and Computer Vision Concepts**
-  - 👯 I'm looking to collaborate on **a potential Money-Making AI Platform**
+  - 🌱 I'm currently learning **fundamental Cloud Computing, ML, and Embedded System Concepts**
   - 🤝 I'm looking for help with **developing AI Agent Projects**
   - 💬 Ask me about **Embedded Systems, AI, and Electronics**
   - 📫 How to reach me: **eronjacobbuenaflor@gmail.com**
