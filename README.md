@@ -54,26 +54,26 @@
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eronjacob&show_icons=true&theme=tokyonight&hide_border=true&title_color=00b4d8&icon_color=00b4d8&bg_color=0d1117" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-five-gules-91.vercel.app/api?username=eronjacob&show_icons=true&theme=tokyonight&hide_border=true&title_color=00b4d8&icon_color=00b4d8&bg_color=0d1117" width="48%" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com/?user=eronjacob&theme=tokyonight&hide_border=true&stroke=00b4d8&ring=00b4d8&fire=00b4d8&background=0d1117" width="48%" alt="Streak Stats" />
 </div>
 
 <br/>
 
 <div align="center">
-  
   <!-- Donut-vertical is more visual than the default compact bar layout -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eronjacob&layout=donut-vertical&theme=tokyonight&hide_border=true&title_color=00b4d8&bg_color=0d1117" width="34%" alt="Top Languages" />
+  <img src="https://github-readme-stats-five-gules-91.vercel.app/api/top-langs/?username=eronjacob&layout=donut-vertical&theme=tokyonight&hide_border=true&title_color=00b4d8&bg_color=0d1117" width="34%" alt="Top Languages" />
 
   <!-- ⚠️ Replace YOUR-WAKATIME-USERNAME with your actual WakaTime username -->
   <!-- Sign up free at https://wakatime.com and install the IDE plugin -->
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=eronjacob&theme=tokyonight&hide_border=true&title_color=00b4d8&icon_color=00b4d8&bg_color=0d1117&layout=compact" width="60%" alt="WakaTime Stats" />
+  <img src="https://github-readme-stats-five-gules-91.vercel.app/api/wakatime?username=eronjacob&theme=tokyonight&hide_border=true&title_color=00b4d8&icon_color=00b4d8&bg_color=0d1117&layout=compact" width="60%" alt="WakaTime Stats" />
 </div>
 
 <!-- GITHUB TROPHIES -->
 <div align="center">
   <h3>🏆 GitHub Trophies</h3>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <!-- Note: Still using the public vercel app here. To fix, deploy ryo-ma's repository to Vercel just like you did for the stats! -->
     <img src="https://github-profile-trophy.vercel.app/?username=eronjacob&theme=onedark&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" width="100%" alt="trophy" />
   </a>
 </div>
@@ -106,7 +106,6 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
 <!-- SNAKE CONTRIBUTION ANIMATION -->
-<!-- ⚠️ Requires GitHub Action — add the workflow below if not done yet -->
 <h2 align="center">🐍 My Contributions</h2>
 <div align="center">
   <picture>
@@ -119,7 +118,6 @@
 <br/>
 
 <!-- 3D CONTRIBUTION CALENDAR -->
-<!-- ⚠️ Requires GitHub Action — add the workflow below if not done yet -->
 <h3 align="center">🌐 3D Contribution Calendar</h3>
 <div align="center">
   <img src="https://raw.githubusercontent.com/eronjacob/eronjacob/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Calendar" />
@@ -129,10 +127,10 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
 <!-- ACTIVITY GRAPH -->
-<!-- FIX: completed the truncated custom_title param -->
 <h2 align="center">📈 Activity Graph</h2>
 <div align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <!-- Note: Still using the public vercel app here. To fix, deploy ashutosh00710's repository to Vercel! -->
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=eronjacob&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&color=00b4d8&line=00b4d8&point=FFFFFF&custom_title=Eron's%20Contribution%20Graph" width="100%" alt="Activity Graph" />
   </a>
 </div>
@@ -141,22 +139,20 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
 <!-- PINNED PROJECTS -->
-<!-- ⚠️ IMPORTANT: Replace "YOUR-REPO-NAME-HERE" with your actual repository names! -->
-<!-- All 4 cards were pointing to the same repo — update each one below -->
 <h2 align="center">📌 Pinned Projects</h2>
 <div align="center">
   <a href="https://github.com/eronjacob/MotorMind">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eronjacob&repo=MotorMind&theme=tokyonight&hide_border=true&title_color=00b4d8&icon_color=00b4d8&bg_color=0d1117" width="45%" alt="MotorMind" />
+    <img src="https://github-readme-stats-five-gules-91.vercel.app/api/pin/?username=eronjacob&repo=MotorMind&theme=tokyonight&hide_border=true&title_color=00b4d8&icon_color=00b4d8&bg_color=0d1117" width="45%" alt="MotorMind" />
   </a>
   <a href="https://github.com/eronjacob/Dual_Robotic_Real-Time_Operation_Dashboard_Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eronjacob&repo=Dual_Robotic_Real-Time_Operation_Dashboard_Project&theme=tokyonight&hide_border=true&title_color=00b4d8&icon_color=00b4d8&bg_color=0d1117" width="45%" alt="Dual_Robotic_Real-Time_Operation_Dashboard_Project" />
+    <img src="https://github-readme-stats-five-gules-91.vercel.app/api/pin/?username=eronjacob&repo=Dual_Robotic_Real-Time_Operation_Dashboard_Project&theme=tokyonight&hide_border=true&title_color=00b4d8&icon_color=00b4d8&bg_color=0d1117" width="45%" alt="Dual_Robotic_Real-Time_Operation_Dashboard_Project" />
   </a>
   <br/>
   <a href="https://github.com/eronjacob/Makati_Garage_Website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eronjacob&repo=Makati_Garage_Website&theme=tokyonight&hide_border=true&title_color=00b4d8&icon_color=00b4d8&bg_color=0d1117" width="45%" alt="Makati_Garage_Website" />
+    <img src="https://github-readme-stats-five-gules-91.vercel.app/api/pin/?username=eronjacob&repo=Makati_Garage_Website&theme=tokyonight&hide_border=true&title_color=00b4d8&icon_color=00b4d8&bg_color=0d1117" width="45%" alt="Makati_Garage_Website" />
   </a>
   <a href="https://github.com/eronjacob/Dual_Robotic_Arm_HCI_Software">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eronjacob&repo=Dual_Robotic_Arm_HCI_Software&theme=tokyonight&hide_border=true&title_color=00b4d8&icon_color=00b4d8&bg_color=0d1117" width="45%" alt="Dual_Robotic_Arm_HCI_Software" />
+    <img src="https://github-readme-stats-five-gules-91.vercel.app/api/pin/?username=eronjacob&repo=Dual_Robotic_Arm_HCI_Software&theme=tokyonight&hide_border=true&title_color=00b4d8&icon_color=00b4d8&bg_color=0d1117" width="45%" alt="Dual_Robotic_Arm_HCI_Software" />
   </a>
 </div>
 
