@@ -83,10 +83,23 @@
 
 <!-- TECH STACK -->
 <h2 align="center">🛠️ Tech Stack & Tools</h2>
+
 <div align="center">
+  <!-- Core Languages, Frameworks, & AI (Skill Icons) -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,c,cpp,js,matlab,bash,react,nodejs,opencv,firebase,git,tensorflow,pytorch&perline=10" alt="Tech Stack Icons" />
+    <img src="https://skillicons.dev/icons?i=py,java,kotlin,c,cpp,js,matlab,arduino,bash,react,nodejs,kafka,opencv,firebase,git,tensorflow,pytorch,bootstrap,spring,mongodb,mysql,postgres,gcp,github,kubernetes,vscode&perline=13" alt="Tech Stack Icons" />
   </a>
+</div>
+
+<br>
+
+<div align="center">
+  <!-- Specialized Engineering & Architecture Tools (Shields.io Badges) -->
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=Databricks&logoColor=white" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Node--RED-8F0000?style=for-the-badge&logo=Node-RED&logoColor=white" alt="Node-RED" />
+  <img src="https://img.shields.io/badge/Zephyr_OS-782BAF?style=for-the-badge&logo=Linux&logoColor=white" alt="ZephyrOS" />
+  <img src="https://img.shields.io/badge/Simulink-0076A8?style=for-the-badge&logo=MathWorks&logoColor=white" alt="Simulink" />
+  <img src="https://img.shields.io/badge/Enterprise_Architect-232F3E?style=for-the-badge&logo=AmazonWebServices&logoColor=white" alt="Enterprise Architect" />
 </div>
 
 <!-- WAVE DIVIDER -->
